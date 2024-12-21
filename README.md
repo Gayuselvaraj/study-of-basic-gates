@@ -87,12 +87,16 @@ endmodule
 ```
 
 **RTL**
-![Screenshot 2024-10-29 022822](https://github.com/user-attachments/assets/0f26e0d4-6acd-4550-b48c-132c55fe2c7e)
+
+
+![Screenshot 2024-12-21 122722](https://github.com/user-attachments/assets/9c4f42cb-a917-4b1d-82de-4ca12b719ab2)
+
 
 **output**
-![Screenshot 2024-10-29 024721](https://github.com/user-attachments/assets/7106164f-bb91-4b4b-846c-9bbc2cd7060b)
 
 
+
+![Screenshot 2024-12-21 122741](https://github.com/user-attachments/assets/26729c4d-e65e-40d1-a4c4-2996a1c16bf9)
 
 **Result:**
 
