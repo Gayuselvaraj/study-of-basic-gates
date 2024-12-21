@@ -1,4 +1,3 @@
-![Screenshot 2024-10-29 022822](https://github.com/user-attachments/assets/148f1ccb-338e-4a7e-a95d-0fb2f61f230a)### study-of-basic-gates
 
 **AIM:** 
 
@@ -61,12 +60,17 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
+**Logic symbol & Truth table**
+
+![WhatsApp Image 2024-11-12 at 2 18 06 PM](https://github.com/user-attachments/assets/2c46ace7-2e52-48c7-90a9-6b762a7c61c5)
 
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:S gayathri RegisterNumber: 24900444
+ Developed by: S.Gayathri
+ 
+ RegisterNumber: 24900444
  ```
 module logic_gates(a, b, c1, c2, c3, c4, c5, c6, c7);
     input a, b;
@@ -81,9 +85,6 @@ module logic_gates(a, b, c1, c2, c3, c4, c5, c6, c7);
     assign c7 = ~(a ^ b);
 endmodule
 ```
-**Logic symbol & Truth table**
-
-![WhatsApp Image 2024-11-12 at 2 18 06 PM](https://github.com/user-attachments/assets/2c46ace7-2e52-48c7-90a9-6b762a7c61c5)
 
 **RTL**
 ![Screenshot 2024-10-29 022822](https://github.com/user-attachments/assets/0f26e0d4-6acd-4550-b48c-132c55fe2c7e)
@@ -93,8 +94,7 @@ endmodule
 
 
 
-
 **Result:**
 
-The truth table of logic gates in Quartus II using Verilog programming is verified.
+Thus the truth table of logic gates in Quartus II using Verilog programming is verified.
 
